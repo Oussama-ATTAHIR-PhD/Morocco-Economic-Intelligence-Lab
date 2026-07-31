@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+title: "Morocco Economic Intelligence Lab"
+message: "If you use this repository in your research or work, please cite it as follows."
+type: software
+
+authors:
+  - family-names: "ATTAHIR"
+    given-names: "Oussama"
+    name-particle: ""
+    affiliation: ""
+    orcid: ""
+
+repository-code: "https://github.com/Oussama-ATTAHIR-PhD/Morocco-Economic-Intelligence-Lab"
+
+abstract: >
+  Morocco Economic Intelligence Lab is an open research initiative dedicated to
+  producing data-driven economic analyses, sector intelligence, and policy-oriented
+  studies on the Moroccan economy. This repository contains reproducible research,
+  datasets, Python notebooks, executive summaries, and visualizations.
+
+keywords:
+  - Morocco
+  - Economics
+  - Economic Intelligence
+  - Public Policy
+  - Purchasing Power
+  - Inflation
+  - Labor Market
+  - Data Analysis
+  - Python
+  - Econometrics
+
+license: MIT
+
+version: "1.0.0"
+
+date-released: "2026-07-31"
